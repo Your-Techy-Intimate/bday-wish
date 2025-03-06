@@ -16,8 +16,8 @@ const Surprise = () => {
     "Play Music",
     "Decorate",
     "Fly the Balloons",
-    "Let's Cut the Cake Bestie ",
-    "Well, I Have a Message for You Bestie "
+    "Let's Cut the CakeFriend  Ji",
+    "Well, I Have a Message for YouFriend  Ji"
   ];
 
   const handleClick = () => {
